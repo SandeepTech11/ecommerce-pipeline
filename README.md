@@ -12,7 +12,7 @@ A fully functional **real-time data pipeline** that simulates e-commerce user ev
 
 ## 🖥️ Dashboard Preview
 
-> Dark-themed analytics dashboard with animated metric cards and live-updating charts.
+![Dashboard Preview](assets/dashboard_preview.png)
 
 ---
 
